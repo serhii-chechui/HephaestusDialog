@@ -1,0 +1,14 @@
+{
+    "name": "com.wtfgames.hephaestus.dialog.core",
+    "rootNamespace": "WTFGames.Hephaestus.Dialog",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

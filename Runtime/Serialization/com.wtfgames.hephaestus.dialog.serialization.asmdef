@@ -1,0 +1,16 @@
+{
+    "name": "com.wtfgames.hephaestus.dialog.serialization",
+    "rootNamespace": "WTFGames.Hephaestus.Dialog.Serialization",
+    "references": [
+        "com.wtfgames.hephaestus.dialog.core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

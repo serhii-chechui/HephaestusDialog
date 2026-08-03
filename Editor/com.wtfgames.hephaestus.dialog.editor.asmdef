@@ -1,0 +1,21 @@
+{
+    "name": "com.wtfgames.hephaestus.dialog.editor",
+    "rootNamespace": "WTFGames.Hephaestus.Dialog.Editor",
+    "references": [
+        "com.wtfgames.hephaestus.dialog.core",
+        "com.wtfgames.hephaestus.dialog.serialization",
+        "UnityEditor.GraphViewModule",
+        "UnityEditor.UIElementsModule"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
