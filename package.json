@@ -8,6 +8,11 @@
     "com.unity.nuget.newtonsoft-json": "3.2.2"
   },
   "author": {
-    "name": "WTFGames"
+    "name": "WTFGames",
+    "email": "serhii.chechui@gmail.com",
+    "url": "https://github.com/serhii-chechui/HephaestusDialog"
+  },
+  "publishConfig": {
+    "registry": "https://upm.wtfgames.com.ua/"
   }
 }
